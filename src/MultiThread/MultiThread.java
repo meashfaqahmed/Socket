@@ -1,5 +1,5 @@
 package MultiThread;
-
+//Class to demo multithreading
 class MultithreadingDemo extends Thread 
 { 
     public void run() 
